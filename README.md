@@ -8,8 +8,8 @@
 </p>
 <br><br>
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DiamantexDev&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiamantexDev&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=DiamantexDev&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiamantexDev&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 <br><br>
 
