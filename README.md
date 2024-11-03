@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c7258a2b-52a4-42e8-89c3-85d9cf67ac87" alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/8a613208-448f-4484-8952-8105ae68dd23" alt="Banner" />
 </div>
 
 <h3 align="center">🚀 Do estudo à prática, criando inovações que fazem a diferença. 🚀</h3>
