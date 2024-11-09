@@ -4,7 +4,7 @@
 
 <h3 align="center">🚀 Do estudo à prática, criando inovações que fazem a diferença. 🚀</h3>
 <p align="center">
-  Sou um desenvolvedor web em formação, apaixonado por novas tecnologias. Atualmente, estou aprendendo linguagens como HTML5, CSS3, JavaScript, Java e C. Iniciei minha jornada na programação em 2024 e estou sempre em busca de novos conhecimentos. Estou desenvolvendo projetos como sites, landing pages e outros. Além disso, estou cursando Análise e Desenvolvimento de Sistemas, o que me permite ampliar ainda mais minhas habilidades técnicas e meu entendimento sobre a criação de soluções eficientes e centradas no usuário.
+  Sou um desenvolvedor web em formação, aprendendo HTML5, CSS3, JavaScript, Java e C. Iniciei minha jornada em 2024 e estou criando projetos como sites e landing pages. Além disso, curso Análise e Desenvolvimento de Sistemas para expandir minhas habilidades e conhecimentos.
 </p>
 <br><br>
 <div align="center">
