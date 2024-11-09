@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8a613208-448f-4484-8952-8105ae68dd23" alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/dd618913-375e-4d06-a81d-2ae30652b642" alt="Banner" />
 </div>
 
 <h3 align="center">🚀 Do estudo à prática, criando inovações que fazem a diferença. 🚀</h3>
@@ -8,8 +8,8 @@
 </p>
 <br><br>
 <div align="center">
-  <img width=44% align="center" src="https://github-readme-stats.vercel.app/api?username=DiamantexDev&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiamantexDev&layout=compact&theme=radical" alt="Top Languages" />
+  <img width=44% align="center" src="https://github-readme-stats.vercel.app/api?username=DiamantexDev&show_icons=true&theme=highcontrast" alt="GitHub stats" />
+  <img width=39.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiamantexDev&layout=compact&theme=highcontrast" alt="Top Languages" />
 </div>
 <br><br>
 
