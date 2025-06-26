@@ -9,17 +9,6 @@
 </div>
 <br><br>
 
-<h1 align="center">My Skills</h1>
-
-<h3 align="center">Programming and Development</h3>
-<p align="center">
-  <img width="90em" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img width="80em" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img width="118em" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img width="50em" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
-  <img width="50em" src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" />
-</p>
-
 <h3 align="center">Contacts</h3>
 
 <p align="center">
