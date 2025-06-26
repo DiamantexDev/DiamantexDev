@@ -30,8 +30,6 @@
 
 <p align="center">
   <a href="https://www.instagram.com/dxdiamantex/" target="_blank"><img width="120em" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/diamantexdev/" target="_blank"><img width="107em" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://rmdeveloper.com.br" target="_blank"><img width="81em" src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
   <a href="mailto:diamantexdev@gmail.com" target="_blank"><img width="80em" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
