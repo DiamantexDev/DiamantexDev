@@ -2,10 +2,6 @@
   <img src="https://github.com/user-attachments/assets/545716f1-d83c-4c68-a7ef-cee72288a664" alt="Banner" />
 </div>
 
-<h3 align="center">🚀 Do estudo à prática, criando inovações que fazem a diferença. 🚀</h3>
-<p align="center">
-  Sou um desenvolvedor web em formação, aprendendo HTML5, CSS3, JavaScript, Java e C. Iniciei minha jornada em 2024 e estou criando projetos como sites e landing pages. Além disso, curso Análise e Desenvolvimento de Sistemas para expandir minhas habilidades e conhecimentos.
-</p>
 <br><br>
 <div align="center">
   <img width=44% align="center" src="https://github-readme-stats.vercel.app/api?username=DiamantexDev&show_icons=true&theme=highcontrast" alt="GitHub stats" />
