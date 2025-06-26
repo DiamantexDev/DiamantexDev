@@ -20,12 +20,6 @@
   <img width="50em" src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" />
 </p>
 
-<h3 align="center">Design Tools</h3>
-<p align="center">
-  <img width="90em" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
-  <img width="120em" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
-</p>
-
 <h3 align="center">Contacts</h3>
 
 <p align="center">
